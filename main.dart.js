@@ -56614,7 +56614,7 @@ $S:353}
 A.xb.prototype={
 ai(){return new A.JS()}}
 A.JS.prototype={
-U(a){var s,r,q,p,o,n,m=null,l=t.d,k=A.em(m,A.np(B.bB,A.c([A.em(m,m,B.E,m,new A.cn(m,A.a7J(B.hW,new A.lY("assests/images/photo2.jpg")),m,m,m,m,B.a2),m,m,m,m),A.LU(A.c([A.h3(m,150,m),A.ta(A.c([A.eI(" Wellcome To World  ",A.du(m,m,B.i,m,m,m,m,m,m,m,m,100,m,m,B.ag,m,m,!0,m,m,m,m,m,m,m,m))],l),B.bO,B.cO)],l),B.aW)],l),B.c4),B.E,m,m,800,m,m,1/0),j=A.em(m,m,B.E,m,m,m,m,m,m),i=A.ta(A.c([A.eI("How long do you wanna Meditate",A.du(m,m,B.m,m,m,m,m,m,m,m,m,40,m,m,B.ag,m,m,!0,m,m,m,m,m,m,m,m))],l),B.bO,B.cO),h=A.h3(m,10,m),g=A.ix(10)
+U(a){var s,r,q,p,o,n,m=null,l=t.d,k=A.em(m,A.np(B.bB,A.c([A.em(m,m,B.E,m,new A.cn(m,A.a7J(B.hW,new A.lY("assests/images/photo2.jpg")),m,m,m,m,B.a2),m,m,m,m),A.LU(A.c([A.h3(m,150,m),A.ta(A.c([A.eI(" Wellcome To World of Peace ",A.du(m,m,B.i,m,m,m,m,m,m,m,m,100,m,m,B.ag,m,m,!0,m,m,m,m,m,m,m,m))],l),B.bO,B.cO)],l),B.aW)],l),B.c4),B.E,m,m,800,m,m,1/0),j=A.em(m,m,B.E,m,m,m,m,m,m),i=A.ta(A.c([A.eI("How long do you wanna Meditate",A.du(m,m,B.m,m,m,m,m,m,m,m,m,40,m,m,B.ag,m,m,!0,m,m,m,m,m,m,m,m))],l),B.bO,B.cO),h=A.h3(m,10,m),g=A.ix(10)
 g=A.em(m,A.h3(A.mM(A.eI("0-5 min ",A.du(m,m,B.i,m,m,m,m,m,m,m,m,20,m,m,B.ag,m,m,!0,m,m,m,m,m,m,m,m)),new A.a2x(a),A.my(B.bg,B.i,m)),m,500),B.E,m,new A.cn(B.aX,m,m,g,m,m,B.a2),m,m,m,m)
 s=A.ix(10)
 s=A.em(m,A.h3(A.mM(A.eI("5-10 min ",A.du(m,m,B.i,m,m,m,m,m,m,m,m,20,m,m,B.ag,m,m,!0,m,m,m,m,m,m,m,m)),new A.a2y(a),A.my(B.bg,B.i,m)),m,500),B.E,m,new A.cn(B.aX,m,m,s,m,m,B.a2),m,m,m,m)
