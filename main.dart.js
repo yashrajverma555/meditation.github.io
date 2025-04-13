@@ -12999,7 +12999,8 @@ k=e}}l=f}m=h}}if(j){if(n)p=o
 else{j=s?q:b
 o=(j==null?p.a(j):j).b
 p=o}A.bk(p)
-p=new A.aO(Math.max(A.jR(m),A.jR(k)),Math.max(A.jR(l),p))
+a=new A.aO(Math.max(A.jR(m),A.jR(k)),Math.max(A.jR(l),p))
+p=a
 break $label0$0}p=d}return p},
 aj8(a,b,c,d,e,f,g,h,i){var s,r=null,q=A.aw(),p=J.ahx(4,t.dY)
 for(s=0;s<4;++s)p[s]=new A.u3(r,B.aJ,B.a8,B.am.i(0,B.am)?new A.ia(1):B.am,r,r,r,r,B.br,r)
@@ -56613,7 +56614,7 @@ $S:353}
 A.xb.prototype={
 ai(){return new A.JS()}}
 A.JS.prototype={
-U(a){var s,r,q,p,o,n,m=null,l=t.d,k=A.em(m,A.np(B.bB,A.c([A.em(m,m,B.E,m,new A.cn(m,A.a7J(B.hW,new A.lY("assests/images/photo2.jpg")),m,m,m,m,B.a2),m,m,m,m),A.LU(A.c([A.h3(m,150,m),A.ta(A.c([A.eI(" Wellcome To World Of Peace ",A.du(m,m,B.i,m,m,m,m,m,m,m,m,100,m,m,B.ag,m,m,!0,m,m,m,m,m,m,m,m))],l),B.bO,B.cO)],l),B.aW)],l),B.c4),B.E,m,m,800,m,m,1/0),j=A.em(m,m,B.E,m,m,m,m,m,m),i=A.ta(A.c([A.eI("How long do you wanna Meditate",A.du(m,m,B.m,m,m,m,m,m,m,m,m,40,m,m,B.ag,m,m,!0,m,m,m,m,m,m,m,m))],l),B.bO,B.cO),h=A.h3(m,10,m),g=A.ix(10)
+U(a){var s,r,q,p,o,n,m=null,l=t.d,k=A.em(m,A.np(B.bB,A.c([A.em(m,m,B.E,m,new A.cn(m,A.a7J(B.hW,new A.lY("assests/images/photo2.jpg")),m,m,m,m,B.a2),m,m,m,m),A.LU(A.c([A.h3(m,150,m),A.ta(A.c([A.eI(" Wellcome To World  ",A.du(m,m,B.i,m,m,m,m,m,m,m,m,100,m,m,B.ag,m,m,!0,m,m,m,m,m,m,m,m))],l),B.bO,B.cO)],l),B.aW)],l),B.c4),B.E,m,m,800,m,m,1/0),j=A.em(m,m,B.E,m,m,m,m,m,m),i=A.ta(A.c([A.eI("How long do you wanna Meditate",A.du(m,m,B.m,m,m,m,m,m,m,m,m,40,m,m,B.ag,m,m,!0,m,m,m,m,m,m,m,m))],l),B.bO,B.cO),h=A.h3(m,10,m),g=A.ix(10)
 g=A.em(m,A.h3(A.mM(A.eI("0-5 min ",A.du(m,m,B.i,m,m,m,m,m,m,m,m,20,m,m,B.ag,m,m,!0,m,m,m,m,m,m,m,m)),new A.a2x(a),A.my(B.bg,B.i,m)),m,500),B.E,m,new A.cn(B.aX,m,m,g,m,m,B.a2),m,m,m,m)
 s=A.ix(10)
 s=A.em(m,A.h3(A.mM(A.eI("5-10 min ",A.du(m,m,B.i,m,m,m,m,m,m,m,m,20,m,m,B.ag,m,m,!0,m,m,m,m,m,m,m,m)),new A.a2y(a),A.my(B.bg,B.i,m)),m,500),B.E,m,new A.cn(B.aX,m,m,s,m,m,B.a2),m,m,m,m)
@@ -62045,4 +62046,3 @@ return}var s=document.scripts
 function onLoad(b){for(var q=0;q<s.length;++q){s[q].removeEventListener("load",onLoad,false)}a(b.target)}for(var r=0;r<s.length;++r){s[r].addEventListener("load",onLoad,false)}})(function(a){v.currentScript=a
 var s=A.a3u
 if(typeof dartMainRunner==="function"){dartMainRunner(s,[])}else{s([])}})})()
-//# sourceMappingURL=main.dart.js.map
